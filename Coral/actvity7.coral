@@ -1,0 +1,10 @@
+integer wage 
+integer salary 
+
+
+wage = 20 
+salary = wage*40*52
+
+Put " salary is " to output 
+
+Put salary to output 

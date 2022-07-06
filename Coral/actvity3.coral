@@ -1,0 +1,10 @@
+integer wage
+integer salary 
+
+wage = Get next input 
+
+salary = wage * 40 * 52 
+
+Put "Salary is" to output 
+
+Put salary to output

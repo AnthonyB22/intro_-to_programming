@@ -1,0 +1,8 @@
+1.PSEUDOCODE- pseudocode is a plain language description of the steps in an algorithm or another system. 
+FLOWCHART- a diagram of the sequence of movements or actions of people or things involved in a complex system or activity.
+INPUT- Python input() function is used to take user input. By default, it returns the user input in the form of a string. Syntax. input(prompt)
+OUTPUT-An output is data that a computer sends
+OUTPUT VARIABLES-
+COMMENTS- A comment is text that a  programmer adds to a program, which is to be read by humans to better understand the code. It is ignored by the program when executing. 
+WHITESPACE- In computer programming, whitespace is any character or series of characters that represent horizontal or vertical space in typography. When rendered, a whitespace character does not correspond to a visible mark, but typically does occupy an area on a page.
+DEBUGGING- The process of identifying and removing errors from computer hardware or software

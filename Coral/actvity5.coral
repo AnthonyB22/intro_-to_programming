@@ -1,0 +1,16 @@
+integer dogYears
+integer humanYears
+
+dogYears = Get next input 
+
+humanYears = 7* dogYears
+
+Put"A" to output 
+
+Put dogYears to output 
+
+Put "year old dog is about a" to output 
+
+Put humanYears to output 
+
+Put " year old human. " to output 
